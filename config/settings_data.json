@@ -1,0 +1,18 @@
+{
+  "current": {
+    "sections": {
+      "165151854385fd394f": {
+        "type": "hero",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Hero_Image.png"
+        }
+      }
+    },
+    "content_for_index": [
+      "165151854385fd394f"
+    ]
+  },
+  "presets": {
+    "Default": {}
+  }
+}
